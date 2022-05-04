@@ -1,3 +1,15 @@
+# Prints de demonstração dos errors obtidos.
+
+![img1](https://user-images.githubusercontent.com/85361518/166815165-1e68ec78-8d9d-4d6d-a494-2c355de0cec6.png)
+
+
+![img2](https://user-images.githubusercontent.com/85361518/166815181-db540634-dea5-4e02-92f9-8711ca20e909.png)
+
+
+![img3](https://user-images.githubusercontent.com/85361518/166815211-7c5c611b-a6b0-494f-b2cb-2b1c5a16070c.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
